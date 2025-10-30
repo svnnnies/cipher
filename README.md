@@ -9,9 +9,7 @@ No extra extensions or libraries are needed to run the encrypt.py file. Just mak
 # How to run:
 1- Open a terminal in this folder.
 
-2- In the terminal write down:'''
-python encrypt.py 
-'''
+2- In the terminal write down: $python encrypt.py
 
 3- When prompted, enter your full name (this is what will be encrypted)
 
